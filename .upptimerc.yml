@@ -12,9 +12,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
-  themeUrl: https://openbb-finance.github.io/uptime/custom-theme.css
+  themeUrl: https://cdn.statically.io/gh/openbb-finance/uptime/master/assets/custom-theme.css
   baseUrl: /uptime
-  logoUrl: https://openbb-finance.github.io/uptime/logo.png
+  logoUrl: https://cdn.statically.io/gh/openbb-finance/uptime/master/assets/logo.png
   name: OpenBB
   introTitle: "**OpenBB** is a leading open source investment analysis company. Our mission is to make investment research effective, powerful and accessible to everyone."
   introMessage: OpenBB lorem ipsum
