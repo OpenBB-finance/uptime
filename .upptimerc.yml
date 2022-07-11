@@ -18,6 +18,7 @@ status-website:
   name: OpenBB
   introTitle: "**OpenBB** is a leading open source investment analysis company. Our mission is to make investment research effective, powerful and accessible to everyone."
   introMessage: OpenBB lorem ipsum
+  favicon: https://openbb.co/favicons/favicon-32x32.png
   navbar:
     - title: Status
       href: /
