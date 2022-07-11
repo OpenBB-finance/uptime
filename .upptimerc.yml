@@ -14,10 +14,10 @@ status-website:
   #cname: demo.upptime.js.org
   themeUrl: https://openbb-finance.github.io/uptime/custom-theme.css
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://openbb-finance.github.io/uptime/logo.png
   name: OpenBB
-  introTitle: "**OpenBB** is...."
-  introMessage: OpenBB
+  introTitle: "**OpenBB** is a leading open source investment analysis company. Our mission is to make investment research effective, powerful and accessible to everyone."
+  introMessage: OpenBB lorem ipsum
   navbar:
     - title: Status
       href: /
