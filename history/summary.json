@@ -4,9 +4,9 @@
     "url": "https://openbb.co",
     "icon": "https://favicons.githubusercontent.com/openbb.co",
     "slug": "open-bb-co",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 314,
     "timeMonth": 316,
     "timeYear": 316,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-21": 0
+    }
   },
   {
     "name": "OpenBB Terminal Docs",
