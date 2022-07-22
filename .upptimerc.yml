@@ -7,6 +7,8 @@ sites:
     url: https://openbb.co
   - name: OpenBB Terminal Docs
     url: https://openbb-finance.github.io/OpenBBTerminal
+  - name: Bot Alerts
+    url: $BOT_ALERTS_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
