@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/openbb.co",
     "slug": "open-bb-co",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 295,
-    "timeDay": 356,
-    "timeWeek": 303,
-    "timeMonth": 295,
-    "timeYear": 295,
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 293,
+    "timeDay": 254,
+    "timeWeek": 283,
+    "timeMonth": 293,
+    "timeYear": 293,
     "dailyMinutesDown": {
       "2022-07-21": 36
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 259,
-    "timeDay": 382,
-    "timeWeek": 269,
-    "timeMonth": 259,
-    "timeYear": 259,
+    "time": 279,
+    "timeDay": 644,
+    "timeWeek": 346,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 195,
-    "timeWeek": 195,
-    "timeMonth": 195,
-    "timeYear": 195,
+    "time": 179,
+    "timeDay": 148,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   }
 ]
