@@ -42,17 +42,19 @@
     "url": "$BOT_ALERTS_URL",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bot-alerts",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 148,
+    "timeDay": 163,
     "timeWeek": 179,
     "timeMonth": 179,
     "timeYear": 179,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-24": 0
+    }
   }
 ]
