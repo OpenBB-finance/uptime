@@ -7,8 +7,10 @@ sites:
     url: https://openbb.co
   - name: OpenBB Terminal Docs
     url: https://openbb-finance.github.io/OpenBBTerminal
-  - name: Bot Alerts
-    url: $BOT_ALERTS_URL
+  - name: Bot Platform
+    url: $PAYMENTS_BACKEND_URL
+  - name: Bot API
+    url: $BOTS_API_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -19,7 +21,7 @@ status-website:
   logoUrl: https://cdn.statically.io/gh/openbb-finance/uptime/master/assets/logo.png
   name: OpenBB
   introTitle: "**OpenBB** is a leading open source investment analysis company. Our mission is to make investment research effective, powerful and accessible to everyone."
-  introMessage: OpenBB lorem ipsum
+  introMessage: "Bot platform are dependent on Discord and Telegram status, if something is not working related to the bot verify [telegram status](https://downdetector.com/status/telegram/) and [discord status](https://discordstatus.com/)."
   favicon: https://openbb.co/favicons/favicon-32x32.png
   navbar:
     - title: Status
