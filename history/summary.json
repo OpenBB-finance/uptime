@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.73%",
-    "time": 346,
-    "timeDay": 253,
-    "timeWeek": 350,
-    "timeMonth": 376,
-    "timeYear": 346,
+    "time": 347,
+    "timeDay": 457,
+    "timeWeek": 355,
+    "timeMonth": 379,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2022-10-06": 352,
       "2022-07-21": 36
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 79,
-    "timeWeek": 158,
-    "timeMonth": 201,
+    "timeDay": 191,
+    "timeWeek": 148,
+    "timeMonth": 179,
     "timeYear": 208,
     "dailyMinutesDown": {}
   },
@@ -43,18 +43,20 @@
     "url": "$PAYMENTS_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 66,
+    "time": 176,
+    "timeDay": 227,
     "timeWeek": 143,
-    "timeMonth": 173,
-    "timeYear": 173,
-    "dailyMinutesDown": {}
+    "timeMonth": 176,
+    "timeYear": 176,
+    "dailyMinutesDown": {
+      "2022-10-19": 0
+    }
   },
   {
     "name": "Bot API",
@@ -67,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 184,
-    "timeDay": 60,
+    "time": 187,
+    "timeDay": 247,
     "timeWeek": 175,
-    "timeMonth": 184,
-    "timeYear": 184,
+    "timeMonth": 187,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   }
 ]
