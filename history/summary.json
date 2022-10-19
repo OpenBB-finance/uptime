@@ -43,19 +43,19 @@
     "url": "$PAYMENTS_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-platform",
-    "status": "down",
-    "uptime": "97.83%",
-    "uptimeDay": "58.00%",
-    "uptimeWeek": "94.00%",
-    "uptimeMonth": "97.83%",
-    "uptimeYear": "97.83%",
-    "time": 190,
-    "timeDay": 235,
-    "timeWeek": 186,
-    "timeMonth": 190,
-    "timeYear": 190,
+    "status": "up",
+    "uptime": "97.80%",
+    "uptimeDay": "57.33%",
+    "uptimeWeek": "93.90%",
+    "uptimeMonth": "97.80%",
+    "uptimeYear": "97.80%",
+    "time": 185,
+    "timeDay": 215,
+    "timeWeek": 178,
+    "timeMonth": 185,
+    "timeYear": 185,
     "dailyMinutesDown": {
-      "2022-10-19": 606
+      "2022-10-19": 616
     }
   },
   {
