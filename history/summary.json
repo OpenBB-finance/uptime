@@ -69,7 +69,7 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
     "uptimeDay": "76.08%",
     "uptimeWeek": "96.58%",
