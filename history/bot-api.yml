@@ -1,7 +1,7 @@
 url: $BOTS_API_URL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2022-11-20T07:21:25.785Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2022-11-20T07:30:11.705Z
 startTime: Fri Sep 30 2022 13:17:22 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
