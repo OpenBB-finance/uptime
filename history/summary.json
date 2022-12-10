@@ -43,7 +43,7 @@
     "url": "$PAYMENTS_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "98.09%",
     "uptimeDay": "65.35%",
     "uptimeWeek": "95.05%",
