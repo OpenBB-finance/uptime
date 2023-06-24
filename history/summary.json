@@ -54,11 +54,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-platform",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 217,
     "timeDay": 208,
     "timeWeek": 249,
@@ -88,12 +88,12 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
-    "uptime": "98.13%",
-    "uptimeDay": "97.58%",
+    "status": "down",
+    "uptime": "98.16%",
+    "uptimeDay": "97.57%",
     "uptimeWeek": "97.14%",
-    "uptimeMonth": "93.15%",
-    "uptimeYear": "98.13%",
+    "uptimeMonth": "93.44%",
+    "uptimeYear": "98.16%",
     "time": 367,
     "timeDay": 197,
     "timeWeek": 239,
@@ -120,8 +120,7 @@
       "2023-02-11": 352,
       "2023-02-10": 131,
       "2023-01-10": 34,
-      "2022-11-20": 344,
-      "2022-11-19": 43
+      "2022-11-20": 310
     }
   }
 ]
