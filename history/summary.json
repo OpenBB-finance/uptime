@@ -88,15 +88,15 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
-    "uptime": "98.12%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "97.17%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "98.12%",
+    "status": "down",
+    "uptime": "98.14%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "97.24%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "98.14%",
     "time": 369,
     "timeDay": 345,
-    "timeWeek": 246,
+    "timeWeek": 247,
     "timeMonth": 209,
     "timeYear": 369,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
       "2023-02-10": 131,
       "2023-01-10": 34,
       "2022-11-20": 344,
-      "2022-11-19": 105
+      "2022-11-19": 51
     }
   }
 ]
