@@ -8,12 +8,12 @@
     "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 390,
     "timeDay": 271,
     "timeWeek": 419,
-    "timeMonth": 402,
+    "timeMonth": 398,
     "timeYear": 390,
     "dailyMinutesDown": {
       "2023-05-25": 30,
@@ -88,15 +88,15 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
-    "uptime": "98.18%",
-    "uptimeDay": "95.23%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "96.01%",
-    "uptimeYear": "98.18%",
+    "status": "down",
+    "uptime": "98.19%",
+    "uptimeDay": "95.83%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "96.30%",
+    "uptimeYear": "98.19%",
     "time": 363,
-    "timeDay": 105,
-    "timeWeek": 211,
+    "timeDay": 119,
+    "timeWeek": 206,
     "timeMonth": 197,
     "timeYear": 363,
     "dailyMinutesDown": {
@@ -121,7 +121,7 @@
       "2023-02-11": 352,
       "2023-02-10": 131,
       "2023-01-10": 34,
-      "2022-11-20": 158
+      "2022-11-20": 130
     }
   }
 ]
