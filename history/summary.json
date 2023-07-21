@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.87%",
+    "uptimeYear": "99.88%",
     "time": 382,
     "timeDay": 127,
     "timeWeek": 337,
@@ -89,9 +89,9 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.42%",
-    "uptimeDay": "94.06%",
+    "uptimeDay": "94.05%",
     "uptimeWeek": "97.47%",
     "uptimeMonth": "99.18%",
     "uptimeYear": "98.42%",
@@ -122,7 +122,7 @@
       "2023-04-16": 156,
       "2023-03-06": 45,
       "2023-02-17": 300,
-      "2023-02-11": 98
+      "2023-02-11": 90
     }
   }
 ]
