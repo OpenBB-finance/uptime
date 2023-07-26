@@ -4,18 +4,19 @@
     "url": "https://openbb.co",
     "icon": "https://icons.duckduckgo.com/ip3/openbb.co.ico",
     "slug": "open-bb-co",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
-    "time": 381,
+    "time": 382,
     "timeDay": 332,
     "timeWeek": 315,
     "timeMonth": 279,
-    "timeYear": 386,
+    "timeYear": 387,
     "dailyMinutesDown": {
+      "2023-07-26": 2,
       "2023-05-25": 30,
       "2023-05-20": 10,
       "2023-04-14": 28,
@@ -32,10 +33,10 @@
     "url": "https://openbb-finance.github.io/OpenBBTerminal",
     "icon": "https://icons.duckduckgo.com/ip3/openbb-finance.github.io.ico",
     "slug": "open-bb-terminal-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
@@ -44,6 +45,7 @@
     "timeMonth": 204,
     "timeYear": 196,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-01-10": 20
     }
   },
@@ -52,10 +54,10 @@
     "url": "$PAYMENTS_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-platform",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.40%",
     "time": 212,
@@ -64,6 +66,7 @@
     "timeMonth": 166,
     "timeYear": 212,
     "dailyMinutesDown": {
+      "2023-07-26": 1,
       "2023-07-03": 25,
       "2023-07-02": 23,
       "2023-06-03": 22,
@@ -89,9 +92,9 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.46%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "93.83%",
     "uptimeMonth": "98.58%",
     "uptimeYear": "98.46%",
@@ -101,6 +104,7 @@
     "timeMonth": 186,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2023-07-26": 0,
       "2023-07-24": 201,
       "2023-07-23": 108,
       "2023-07-22": 43,
@@ -123,7 +127,7 @@
       "2023-05-22": 62,
       "2023-05-21": 25,
       "2023-04-16": 156,
-      "2023-03-06": 16
+      "2023-03-06": 10
     }
   }
 ]
