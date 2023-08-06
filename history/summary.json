@@ -95,9 +95,9 @@
     "url": "$BOTS_API_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-api",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "96.94%",
+    "uptimeDay": "96.93%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "98.46%",
     "uptimeYear": "98.53%",
@@ -130,7 +130,7 @@
       "2023-05-23": 1440,
       "2023-05-22": 62,
       "2023-05-21": 25,
-      "2023-04-16": 59
+      "2023-04-16": 51
     }
   }
 ]
