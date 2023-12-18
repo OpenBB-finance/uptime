@@ -1,7 +1,7 @@
 url: https://openbb.co
-status: down
-code: 404
-responseTime: 24
-lastUpdated: 2023-12-18T14:40:53.109Z
+status: up
+code: 200
+responseTime: 429
+lastUpdated: 2023-12-18T14:50:34.163Z
 startTime: 2022-07-11T10:28:19.000Z
 generator: Upptime <https://github.com/upptime/upptime>
