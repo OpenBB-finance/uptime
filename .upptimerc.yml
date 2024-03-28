@@ -11,6 +11,10 @@ sites:
     url: $PAYMENTS_BACKEND_URL
   - name: Bot API
     url: $BOTS_API_URL
+  - name: OpenBB Pro
+    url: $OPENBB_PRO_URL
+  - name: Pro Backend
+    url: $OPENBB_BACKEND_URL
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
