@@ -1,7 +1,7 @@
 url: $PAYMENTS_BACKEND_URL
-status: down
-code: 404
-responseTime: 344
-lastUpdated: 2024-06-06T02:22:22.766Z
+status: up
+code: 200
+responseTime: 114
+lastUpdated: 2024-06-06T02:35:59.265Z
 startTime: 2022-09-30T13:17:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
