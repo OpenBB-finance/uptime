@@ -90,7 +90,7 @@
     "timeDay": 71,
     "timeWeek": 169,
     "timeMonth": 210,
-    "timeYear": 232,
+    "timeYear": 233,
     "dailyMinutesDown": {
       "2024-05-02": 18,
       "2024-01-23": 21,
@@ -147,5 +147,23 @@
     "dailyMinutesDown": {
       "2024-05-02": 18
     }
+  },
+  {
+    "name": "AI Backend",
+    "url": "$OPENBB_AI_URL",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "ai-backend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
   }
 ]
