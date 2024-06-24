@@ -1,7 +1,7 @@
 url: $OPENBB_BACKEND_URL
 status: up
 code: 200
-responseTime: 128
-lastUpdated: 2024-06-23T23:04:39.533Z
+responseTime: 99
+lastUpdated: 2024-06-24T23:04:52.427Z
 startTime: 2024-03-28T17:27:09.760Z
 generator: Upptime <https://github.com/upptime/upptime>
