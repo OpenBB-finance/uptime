@@ -151,18 +151,19 @@
     "url": "$OPENBB_AI_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ai-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.90%",
-    "time": 127,
-    "timeDay": 346,
-    "timeWeek": 130,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "time": 128,
+    "timeDay": 249,
+    "timeWeek": 132,
+    "timeMonth": 128,
+    "timeYear": 128,
     "dailyMinutesDown": {
+      "2024-07-02": 0,
       "2024-06-22": 21
     }
   }
