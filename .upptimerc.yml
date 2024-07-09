@@ -6,7 +6,7 @@ sites:
   - name: OpenBB.co
     url: https://openbb.co
   - name: OpenBB Terminal Docs
-    url: https://openbb-finance.github.io/OpenBBTerminal
+    url: https://docs.openbb.co/
   - name: Bot Platform
     url: $PAYMENTS_BACKEND_URL
   - name: Bot API
