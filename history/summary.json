@@ -103,9 +103,9 @@
     "url": "$OPENBB_PRO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-bb-pro",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -114,7 +114,9 @@
     "timeWeek": 156,
     "timeMonth": 100,
     "timeYear": 94,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-28": 0
+    }
   },
   {
     "name": "Pro Backend",
