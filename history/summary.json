@@ -103,19 +103,19 @@
     "url": "$OPENBB_PRO_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "open-bb-pro",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 94,
-    "timeDay": 73,
+    "timeDay": 112,
     "timeWeek": 156,
-    "timeMonth": 100,
+    "timeMonth": 102,
     "timeYear": 94,
     "dailyMinutesDown": {
-      "2024-08-28": 0
+      "2024-08-28": 18
     }
   },
   {
