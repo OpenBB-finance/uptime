@@ -9,8 +9,6 @@ sites:
     url: https://docs.openbb.co/
   - name: Bot Platform
     url: $PAYMENTS_BACKEND_URL
-  - name: Bot API
-    url: $BOTS_API_URL
   - name: OpenBB Pro
     url: $OPENBB_PRO_URL
   - name: Pro Backend
