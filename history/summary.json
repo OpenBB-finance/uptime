@@ -10,11 +10,11 @@
     "uptimeWeek": "99.86%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.88%",
-    "time": 266,
-    "timeDay": 230,
-    "timeWeek": 166,
-    "timeMonth": 198,
-    "timeYear": 267,
+    "time": 265,
+    "timeDay": 290,
+    "timeWeek": 180,
+    "timeMonth": 195,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2026-03-22": 14,
       "2026-03-03": 28,
@@ -25,8 +25,7 @@
       "2025-12-17": 11,
       "2025-11-16": 7,
       "2025-10-06": 8,
-      "2025-04-19": 15,
-      "2025-03-23": 10
+      "2025-04-19": 15
     }
   },
   {
@@ -41,9 +40,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 165,
-    "timeDay": 181,
-    "timeWeek": 207,
-    "timeMonth": 185,
+    "timeDay": 173,
+    "timeWeek": 198,
+    "timeMonth": 186,
     "timeYear": 175,
     "dailyMinutesDown": {}
   },
@@ -58,11 +57,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 231,
-    "timeDay": 176,
-    "timeWeek": 163,
-    "timeMonth": 245,
-    "timeYear": 252,
+    "time": 230,
+    "timeDay": 119,
+    "timeWeek": 159,
+    "timeMonth": 238,
+    "timeYear": 251,
     "dailyMinutesDown": {}
   },
   {
@@ -77,8 +76,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 144,
-    "timeWeek": 186,
+    "timeDay": 176,
+    "timeWeek": 188,
     "timeMonth": 197,
     "timeYear": 214,
     "dailyMinutesDown": {
@@ -98,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 191,
-    "timeWeek": 174,
-    "timeMonth": 220,
+    "timeDay": 135,
+    "timeWeek": 169,
+    "timeMonth": 214,
     "timeYear": 206,
     "dailyMinutesDown": {}
   },
@@ -116,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 268,
-    "timeDay": 149,
-    "timeWeek": 167,
-    "timeMonth": 229,
+    "timeDay": 162,
+    "timeWeek": 164,
+    "timeMonth": 226,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-06-19": 8,
