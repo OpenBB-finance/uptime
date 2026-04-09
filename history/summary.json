@@ -90,18 +90,20 @@
     "url": "$OPENBB_BACKEND_URL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "pro-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 171,
-    "timeWeek": 231,
-    "timeMonth": 193,
+    "timeDay": 156,
+    "timeWeek": 220,
+    "timeMonth": 192,
     "timeYear": 207,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 0
+    }
   },
   {
     "name": "AI Backend",
