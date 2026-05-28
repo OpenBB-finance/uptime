@@ -1,7 +1,7 @@
 url: $PAYMENTS_BACKEND_URL
 status: up
 code: 200
-responseTime: 190
-lastUpdated: 2026-05-27T23:29:44.170Z
+responseTime: 179
+lastUpdated: 2026-05-28T23:31:15.120Z
 startTime: 2022-09-30T13:17:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
